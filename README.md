@@ -1,4 +1,4 @@
-# <p align="center">Klivio</p>
+# <p align="center">Klivio Tailwind</p>
 
 ## Links
 - [HTML/CSS](https://github.com/JeremyBizzozzero/Klivio-CSS)
