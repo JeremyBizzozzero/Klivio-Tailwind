@@ -1,0 +1,7 @@
+.bg-header {
+  background-color: #152237;
+}
+
+.bg-hero {
+  background-image: linear-gradient(to right, rgba(68, 221, 138, 0.8), rgba(21, 183, 226, 0.8)), url('./background.png');
+}
